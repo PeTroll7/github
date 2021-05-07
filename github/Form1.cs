@@ -19,7 +19,17 @@ namespace github
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("ahoj");
+            MessageBox.Show("čaues");
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("tlc 2");
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("tlac 3");
         }
     }
 }
